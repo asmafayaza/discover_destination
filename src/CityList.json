@@ -1,0 +1,284 @@
+{
+    "City": [
+        {
+            "id": "K1",
+            "name": "Kolkata",
+            "code": "Kolkata"
+        },
+        {
+            "id": "M1",
+            "name": "Mumbai",
+            "code": "Mumbai"
+        },
+        {
+            "id": "C1",
+            "name": "Chennai",
+            "code": "Chennai"
+        },
+        {
+            "id": "T1",
+            "name": "Istanbul",
+            "code": "Istanbul"
+        },
+        {
+            "id": "ABI1",
+            "name": "Chicago",
+            "code": "Chicago"
+        },
+        {
+            "id": "GU1",
+            "name": "Guadalcanal",
+            "code": "Guadalcanal"
+        },
+        {
+            "id": "SKA1",
+            "name": "Samarkand",
+            "code": "Samarkand"
+        },
+        {
+            "id": "DEN1",
+            "name": "Denver",
+            "code": "Denver"
+        },
+        {
+            "id": "CB1",
+            "name": "Cuiaba",
+            "code": "Cuiaba"
+        },
+        {
+            "id": "BGA1",
+            "name": "Bogota",
+            "code": "Bogota"
+        },
+        {
+            "id": "MDA1",
+            "name": "Mendoza",
+            "code": "Mendoza"
+        },
+        {
+            "id": "RYK1",
+            "name": "Reykjavik",
+            "code": "Reykjavik"
+        },
+        {
+            "id": "THN1",
+            "name": "Tehran",
+            "code": "Tehran"
+        },
+        {
+            "id": "AHE1",
+            "name": "Anchorage",
+            "code": "Anchorage"
+        },
+        {
+            "id": "OSL1",
+            "name": "Oslo",
+            "code": "Oslo"
+        },
+        {
+            "id": "MSW1",
+            "name": "Moscow",
+            "code": "Moscow"
+        },
+        {
+            "id": "BAS1",
+            "name": "Buenos Aires",
+            "code": "Buenos Aires"
+        },
+        {
+            "id": "NOU1",
+            "name": "Nouakchott",
+            "code": "Nouakchott"
+        },
+        {
+            "id": "NDJ1",
+            "name": "Ndjamena",
+            "code": "Ndjamena"
+        },
+        {
+            "id": "JKA1",
+            "name": "Jakarta",
+            "code": "Jakarta"
+        },
+        {
+            "id": "TWA1",
+            "name": "Tarawa",
+            "code": "Tarawa"
+        },
+        {
+            "id": "JG1",
+            "name": "Johannesburg",
+            "code": "Johannesburg"
+        },
+        {
+            "id": "LON1",
+            "name": "London",
+            "code": "London"
+        },
+        {
+            "id": "ADE1",
+            "name": "Adelaide",
+            "code": "Adelaide"
+        },
+        {
+            "id": "ADA1",
+            "name": "Adak",
+            "code": "Adak"
+        },
+        {
+            "id": "AMM1",
+            "name": "Amman",
+            "code": "Amman"
+        },
+        {
+            "id": "WIN1",
+            "name": "Windhoek",
+            "code": "Windhoek"
+        },
+        {
+            "id": "YAU1",
+            "name": "Yakutsk",
+            "code": "Yakutsk"
+        },
+        {
+            "id": "DET1",
+            "name": "Detroit",
+            "code": "Detroit"
+        },
+        {
+            "id": "ADN1",
+            "name": "Aden",
+            "code": "Aden"
+        },
+        {
+            "id": "ADD1",
+            "name": "Addis Ababa",
+            "code": "Addis Ababa"
+        },
+        {
+            "id": "ACV1",
+            "name": "Los Angeles",
+            "code": "Los Angeles"
+        },
+        {
+            "id": "ACS1",
+            "name": "Krasnoyarsk",
+            "code": "Krasnoyarsk"
+        },
+        {
+            "id": "ACN1",
+            "name": "Matamoros",
+            "code": "Matamoros"
+        },
+        {
+            "id": "ACJ1",
+            "name": "Colombo",
+            "code": "Colombo"
+        },
+        {
+            "id": "ACI",
+            "name": "Guernsey",
+            "code": "Guernsey"
+        },
+        {
+            "id": "ACH1",
+            "name": "Zurich",
+            "code": "Zurich"
+        },
+        {
+            "id": "ACE1",
+            "name": "Canary",
+            "code": "Canary"
+        },
+        {
+            "id": "ACC1",
+            "name": "Accra",
+            "code": "Accra"
+        },
+        {
+            "id": "ACA1",
+            "name": "Mexico City",
+            "code": "Mexico City"
+        },
+        {
+            "id": "ABX1",
+            "name": "Sydney",
+            "code": "Sydney"
+        },
+        {
+            "id": "ABV1",
+            "name": "Lagos",
+            "code": "Lagos"
+        },
+        {
+            "id": "ABU1",
+            "name": "Makassar",
+            "code": "Makassar"
+        },
+        {
+            "id": "ABT1",
+            "name": "Riyadh",
+            "code": "Riyadh"
+        },
+        {
+            "id": "ABS1",
+            "name": "Cairo",
+            "code": "Cairo"
+        },
+        {
+            "id": "ABO1",
+            "name": "Abidjan",
+            "code": "Abidjan"
+        },
+        {
+            "id": "ABM1",
+            "name": "Brisbane",
+            "code": "Brisbane"
+        },
+        {
+            "id": "ABC1",
+            "name": "Madrid",
+            "code": "Madrid"
+        },
+        {
+            "id": "AAZ1",
+            "name": "Guatemala",
+            "code": "Guatemala"
+        },
+        {
+            "id": "AAX1",
+            "name": "Sao Paulo",
+            "code": "Sao Paulo"
+        },
+        {
+            "id": "AAT1",
+            "name": "Shanghai",
+            "code": "Shanghai"
+        },
+        {
+            "id": "AAR1",
+            "name": "Copenhagen",
+            "code": "Copenhagen"
+        },
+        {
+            "id": "AAI1",
+            "name": "Araguaina",
+            "code": "Araguaina"
+        },
+        {
+            "id": "AAH1",
+            "name": "Berlin",
+            "code": "Berlin"
+        },
+        {
+            "id": "AAE1",
+            "name": "Algiers",
+            "code": "Algiers"
+        },
+        {
+            "id": "AAA1",
+            "name": "Tahiti",
+            "code": "Tahiti"
+        }
+    ]
+}

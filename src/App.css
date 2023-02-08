@@ -1,0 +1,19 @@
+html,
+body {
+    margin: 0px;
+    height: 100%;
+    overflow: hidden;
+}
+
+#root {
+    height: inherit;
+}
+
+.list-unstyle {
+    list-style: none;
+}
+
+.reduce-padding {
+    padding-left: 10px;
+    padding-right: 10px;
+}
